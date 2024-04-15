@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="fragment_one">Followers</string>
+    <string name="fragment_two">Following</string>
+</resources>
